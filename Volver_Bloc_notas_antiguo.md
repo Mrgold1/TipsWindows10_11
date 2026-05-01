@@ -22,4 +22,8 @@ Abrir con: Clic derecho en un archivo de texto >
 "Abrir con" > "Elegir otra aplicación" 
 y selecciona la versión antigua.Este video te muestra cómo desinstalar 
 la versión moderna y abrir la antigua:
-Link video: https://www.youtube.com/watch?v=9n2s8Xo5l7c
+
+Link video de instalación bloc notas: https://www.youtube.com/watch?v=9n2s8Xo5l7c
+
+Descarga el bloc de notas:
+https://win7games.com/
