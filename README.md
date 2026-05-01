@@ -1,4 +1,4 @@
-Bloc notas antiguo
+
 Para recuperar el Bloc de notas clásico en Windows 11: 
 1.Puedes buscar notepad.exe en C:\Windows\System32 o desactivar el 
 "Bloc de notas" en Configuración > Aplicaciones > 
